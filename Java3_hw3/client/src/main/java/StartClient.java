@@ -5,6 +5,9 @@ import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
+
+// С переходом на Java15 получаю ошибку "Error: JavaFX runtime components are missing, and are required to run this application". Не понимаю, как исправить.
+
 public class StartClient extends Application {
 
   @Override
